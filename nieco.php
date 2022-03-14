@@ -1,4 +1,4 @@
 <?php
 echo"toto je nieco";
-$a=23;
+$a=2666;
 ?>
